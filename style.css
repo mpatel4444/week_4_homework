@@ -82,7 +82,7 @@ font-family:"Georgia", Arial, sans-serif;
 	font-weight:bold;
     font-family:'Gabriola', serif;
     color: red;
-	position:relative;
+	position:absolute;
 	top:80%;
 	margin-bottom: 1%;
 }
